@@ -64,7 +64,7 @@ todoapp/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/danialsource/todoapp.git
+git clone https://github.com/danialsource/todoapp-php.git
 ```
 2. **Move the folder to your web server root:**
 
